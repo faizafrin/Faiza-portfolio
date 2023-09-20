@@ -6,8 +6,8 @@ function About() {
   const para = [
     " 💻Hello! I'm Faiza Afrin, a passionate Full Stack Developer with a knack for turning ideas into digital reality.",
     " 💻My passion for problem-solving fuels my enthusiasm for tackling complex challenges. I'm also committed to lifelong learning, as technology is ever-evolving..",
-    " 💻I'm always excited to collaborate on new projects and explore innovative ideas. If you'd like to work together, have a chat, or simply connect, feel free to [provide contact information or links to your social profiles]..",
-    " 💻Thank you for visiting my About page. I invite you to explore the projects and work samples in my portfolio to get a better sense of my skills and expertise..",
+    " 💻I'm always excited to collaborate on new projects and explore innovative ideas. If you'd like to work together, have a chat, or feel free to contact",
+    " 💻Thanks for visiting my page. I invite you to explore the projects and work samples in my portfolio to get a better sense of my skills and expertise..",
   ];
 
   return (
