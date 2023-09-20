@@ -6,7 +6,7 @@ function Internship() {
   const para = [
     " From July 2023 – Present: Python Full Stack Developer  -  Shiash Info Solutions Private Limited - Chennai.",
 
-    "Assisted in the development of new webpages, using Python and relevant web frameworks, such as Django and .",
+    "Assisted in the development of new webpages, using Python and relevant web frameworks, such as Django and database Mysql",
     
   ];
 
