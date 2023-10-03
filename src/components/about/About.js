@@ -17,8 +17,8 @@ function About() {
           <div className="row a_contains mx-auto">
             <div className=" col-sm-12 col-md-12 col-lg-6  about-left-contain">
               <img
-                src="https://www.21kschool.com/blog/wp-content/uploads/2023/04/Girls-coding-myth.png"
-                alt="about"
+                src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg" 
+                 alt="about"
               />
             </div>
             <div className=" col-sm-12 col-md-12 col-lg-6 about-right-contain">

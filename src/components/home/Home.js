@@ -86,7 +86,7 @@ function Home() {
             </div>
           </div>
           <div className=" col-sm-12 col-md-6 col-lg-6 home-right-container">
-            <img src="./asset/programm.avif" alt="heroimage2" />
+            <img src="./asset/girlc.jpg" alt="heroimage2" />
           </div>
         </div>
       </div>
