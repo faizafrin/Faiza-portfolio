@@ -105,15 +105,15 @@ function Project() {
    
      {
       key: ["react", "react hook", "all", "mern",],
-      img: "./asset/project/akgstore.jpeg",
-      title: "AK Grocery Store",
-      githubFrontEnd: "https://github.com/faizafrin/AK---Grocery-Store",
-      githubBackEnd: "https://github.com/faizafrin/AK-Grocery-Backend",
-      sourceCode: "https://coruscating-sfogliatella-bf8131.netlify.app/",
+      img: "./asset/project/login.jpg",
+      title: "LOG-IN",
+      githubFrontEnd: "https://github.com/faizafrin/Login-Frontend",
+      githubBackEnd: "https://github.com/faizafrin/Login--Backend",
+      sourceCode: "https://main--wondrous-arithmetic-536edd.netlify.app/",
       shortNote:
-        "Grocery stores play a crucial role in ensuring communities have access to essential supplies and groceries.",
+        "A MERN (MongoDB, Express, React, Node.js) login page is a fundamental component of many web applications that require user authentication.",
       longNote: [
-          "A grocery store is a retail establishment where customers can purchase various food and household items. It typically offers a wide range of products, including fresh produce, dairy, meat, canned goods, snacks, and cleaning supplies. Grocery stores are essential for daily life, providing a convenient one-stop-shop for consumers to fulfill their food and household needs. "
+          "Overall, a MERN login page is a critical component of web applications that require user authentication, and it involves a combination of frontend (React) and backend (Node.js and Express) technologies working together to provide a secure, user-friendly, and responsive login experience for users.. "
       ],
       skills: [
         {
