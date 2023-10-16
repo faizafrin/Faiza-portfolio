@@ -105,7 +105,7 @@ function Navbar({ open, setOpen }) {
           <a
             className="resume"
             to="contact"
-            href="https://drive.google.com/file/d/19TUp3ma9OKM7qKDpsK1lgjWitR0uJ9Ye/view"
+            href="https://drive.google.com/file/d/1JFrgROlQOqVyXMxMpTg2lpY8OUskoU78/view"
             target="_blank"
             rel="noreferrer"
             onClick={closeMenu}
