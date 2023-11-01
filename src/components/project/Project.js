@@ -105,13 +105,13 @@ function Project() {
    
      {
       key: ["react", "react hook", "all", "mern",],
-      img: "./asset/project/login.jpg",
-      title: "LOG-IN",
-      githubFrontEnd: "https://github.com/faizafrin/Login-Frontend",
-      githubBackEnd: "https://github.com/faizafrin/Login--Backend",
-      sourceCode: "https://main--wondrous-arithmetic-536edd.netlify.app/",
+      img: "./asset/project/kids.jpg",
+      title: "KIDS-WORLD",
+      githubFrontEnd: "https://github.com/faizafrin/Kids-World",
+      githubBackEnd: "https://github.com/faizafrin/Kids-world-BE",
+      sourceCode: "https://main--cute-mandazi-3ff76d.netlify.app/",
       shortNote:
-        "A MERN (MongoDB, Express, React, Node.js) login page is a fundamental component of many web applications that require user authentication.",
+        "A MERN developer for kids store specializes in creating web application using MERN Stack to enhance the online shopping experience for childrens product",
       longNote: [
           "Overall, a MERN login page is a critical component of web applications that require user authentication, and it involves a combination of frontend (React) and backend (Node.js and Express) technologies working together to provide a secure, user-friendly, and responsive login experience for users.. "
       ],
